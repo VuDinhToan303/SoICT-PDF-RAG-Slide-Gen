@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PDF to Slide Generator
 
 A powerful tool that converts academic PDF papers into presentation slides with AI-powered summarization and visualization.
