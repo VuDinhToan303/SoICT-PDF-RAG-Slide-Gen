@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF to Slide Generator
 
 A powerful tool that converts academic PDF papers into presentation slides with AI-powered summarization and visualization.
@@ -100,3 +101,7 @@ project_name/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+# SoICT-PDF-RAG-Slide-Gen
+RAG-based tool to retrieve, generate, and auto-create slides from scanned PDF files
+>>>>>>> ac2db5bef032234b0dda56f2350419fc1f4976e8
