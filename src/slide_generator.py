@@ -10,7 +10,7 @@ from pptx.enum.text import PP_ALIGN
 from .utils import logger, ensure_directory_exists
 
 # Initialize Gemini client
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyDyHokKwcdbJ-iY0CKvQoglq7Bqyr7HIFM")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "YOUR_GEMINI_API_KEY")
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 def summarize_image_with_gemini(image_path: str, caption: str) -> str:
